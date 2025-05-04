@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7e4fbbf-d9a0-4ad9-b2bc-fac47b07eb60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/feature/GeneralUserView.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/feature/LoggedIn.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/feature/NewUserRegistration.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoggedInpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/OnlineProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/Homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/LoggedInpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/OnlineProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utility/BrowserDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utility/allure.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utility/junit-platform.properties" afterDir="false" />
+    <list default="true" id="f7e4fbbf-d9a0-4ad9-b2bc-fac47b07eb60" name="Changes" comment="Cucumber framework project">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AbhimanSinghYadav"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AbhimanSinghYadav/Cucumberbddframework.git",
+    "accountId": "2cb454c3-747d-48af-b234-185d826afcf6"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -132,9 +121,36 @@
       <option name="presentableId" value="Default" />
       <updated>1746256405899</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cucumber framework project">
+      <option name="closed" value="true" />
+      <created>1746362379531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746362379531</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cucumber framework project">
+      <option name="closed" value="true" />
+      <created>1746363175109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746363175109</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cucumber framework project">
+      <option name="closed" value="true" />
+      <created>1746363231181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746363231181</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Cucumber framework project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cucumber framework project" />
   </component>
 </project>
